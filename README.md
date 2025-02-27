@@ -122,6 +122,15 @@ An Awesome List of Celestia Resources
 - Deccentralization Analytics Dashboard: https://celestia-nodes.stakeus.xyz/analytics
 - Node Distribution & Decentralization Metrics
 - Real-time Node Statistics
+##### Bridge Explorer (Bridge Nodes Analytics & Network Metrics): https://celestia-bridges.stakeus.xyz
+- Deccentralization Analytics Dashboard: https://celestia-bridges.stakeus.xyz/map
+- Node Distribution & Decentralization Metrics
+- Real-time Node Statistics
+##### Bridge Stats and Alerts Telegram Bot: https://t.me/celestia_bridge_alerts_bot
+- Node Status Monitoring 
+- Multi-Network Support
+- Customizable Alert System
+- Node Management Dashboard
 ##### Faucet: https://celestia-faucet.stakeus.xyz
 
 ### Testnet
